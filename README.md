@@ -1,5 +1,6 @@
 # Eclipse Key Bindings for Sublime Text 3
 
+<code>
 [
   { "keys": ["f12"], "command": "htmlprettify"},
   { "keys": ["f1"], "command": "fold" },
@@ -30,3 +31,4 @@
   { "keys": ["shift+ctrl+x"], "command": "upper_case" },
   { "keys": ["ctrl+o"], "command": "show_overlay", "args": {"overlay": "goto", "text": "@"} },
 ]
+</code>
